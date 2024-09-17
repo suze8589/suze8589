@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on game projects that need a frontend developer that can center divs :D
 - 📫 How to reach me www.linkedin.com/in/susana-ventura-eduardo
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I have two birds and a catin the same house. They are still alive!
+- ⚡ Fun fact: I have two birds and a cat in the same house. They are still alive!
 
 <!---
 suze8589/suze8589 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
