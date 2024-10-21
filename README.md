@@ -7,7 +7,16 @@
 - ⚡ Fun fact: I have two birds and a cat in the same house. They are still alive!
 
 🔥 Tech Stack
-Java JavaScript HTML5 CSS3 MySQL Bootstrap Spring React 
+
+Java
+JavaScript 
+HTML5
+CSS3
+MySQL 
+Bootstrap
+Spring
+React 
+
 
 <!---
 suze8589/suze8589 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
