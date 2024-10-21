@@ -1,10 +1,10 @@
 <h3>👋 Hi, I’m @suze8589, but you can call me Susana!</h3>
+<h4>I'm a Full Stack Developer and CSS Specialist with a passion for building beautiful web applications from front to back. I love learning new technologies and finding ways to make complex tasks easier. 🚀</h4>
 
-
-- 🔧 Love working with Javascript, HTML5, CSS3, and SQL to create powerful applications.
-- 🌱 I’m currently learning tailwind css and react.
-- 💞️ Do you need a frontend developer that can center divs? Call Susana :D
-- 📫 How to reach me www.linkedin.com/in/susana-ventura-eduardo
+<p>🔧 Love working with Javascript, HTML5, CSS3, and SQL to create powerful applications.</p>
+<p>🌱 I’m currently learning tailwind css and react.</p>
+<p>💞️ Do you need a frontend developer that can center divs? Call Susana :D</p>
+<p>📫 How to reach me www.linkedin.com/in/susana-ventura-eduardo</p>
 
 <hr>
 
