@@ -2,7 +2,7 @@
 
 
 - 🔧 Love working with Javascript, HTML5, CSS3, and SQL to create powerful applications.
-- 🌱 I’m currently learning tailwind cssa nd react.
+- 🌱 I’m currently learning tailwind css and react.
 - 💞️ Do you need a frontend developer that can center divs? Call Susana :D
 - 📫 How to reach me www.linkedin.com/in/susana-ventura-eduardo
 
