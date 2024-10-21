@@ -8,8 +8,8 @@
 
 🔥 Tech Stack
 
-Java
-JavaScript 
+Java ♨️
+JavaScript ｡🇯‌🇸‌
 HTML5
 CSS3
 MySQL 
